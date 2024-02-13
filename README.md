@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushthakar" alt="aayushthakar" /></a> </p>
 
-- 🔭 I’m currently working on **an AI-powered stock analysis**
+- 🔭 I’m currently working on **AI powered recipe generator**
 
-- 🌱 I’m currently learning **Artificial neural networks**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📫 How to reach me **aayushth15@gmail.com**
 
